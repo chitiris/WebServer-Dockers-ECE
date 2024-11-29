@@ -21,5 +21,5 @@ Ensure you have the following installed on your system:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/chitiris/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/chitiris/WebServer-Dockers-ECE.git
+cd WebServer-Dockers-ECE/webserver
