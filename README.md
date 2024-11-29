@@ -13,7 +13,7 @@ This repository contains a **Dockerized setup** for a web development environmen
 Ensure you have the following installed on your system:
 - [Docker](https://www.docker.com/)
 - [Docker Compose](https://docs.docker.com/compose/)
-- [Docker Desktop](https://www.docker.com/products/docker-desktop/\0
+- [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 - [Docker Desktop WSL 2 backend on Windows](https://docs.docker.com/desktop/features/wsl/)
 
 ## Getting Started
