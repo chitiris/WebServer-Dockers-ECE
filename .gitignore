@@ -1,0 +1,4 @@
+# Δεδομένα της MySQL (δημιουργούνται αυτόματα στο πρώτο docker compose up)
+webserver/database/
+# Αρχεία καταγραφής του nginx
+webserver/logs/nginx/*.log
