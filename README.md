@@ -97,6 +97,19 @@ docker compose up -d --build
 
 Η σελίδα εμφανίζει τα βιβλία σε κάρτες, με **αναζήτηση** σε τίτλο ή συγγραφέα και **ταξινόμηση** (τίτλος, συγγραφέας, έτος). Αν δεν έχει γίνει ακόμα το import, εμφανίζει μήνυμα με οδηγίες αντί για σφάλμα.
 
+![Η σελίδα library.php με όλα τα βιβλία](docs/screenshots/library.png)
+
+Αναζήτηση με ελληνικούς χαρακτήρες και ταξινόμηση «Νεότερα πρώτα»:
+
+![Αναζήτηση για «Καζαντζάκης» στη library.php](docs/screenshots/library-search.png)
+
+<details>
+<summary>Εμφάνιση σε κινητό</summary>
+<p align="center">
+  <img src="docs/screenshots/library-mobile.png" alt="Η library.php σε οθόνη κινητού" width="300">
+</p>
+</details>
+
 ---
 
 ## Πώς συνδέεται η PHP με τη βάση
